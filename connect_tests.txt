@@ -1,0 +1,14 @@
+Fails:
+
+Legacy Cryptography:
+tls-v1-0
+tls-v1-1
+dh2048
+
+Domain Security:
+revoked
+pinning-test
+no-sct
+
+Secure(uncommon):
+incomplete-chain
